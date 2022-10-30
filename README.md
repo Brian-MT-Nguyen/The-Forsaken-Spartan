@@ -1,3 +1,3 @@
 # The-Forsaken-Spartan
 Construct 3 Game made by Brian Nguyen & Kelly Liu<br />
-Hosted on brian-mt-nguyen.github.io
+Hosted on [My GitHub Website](https://brian-mt-nguyen.github.io)
